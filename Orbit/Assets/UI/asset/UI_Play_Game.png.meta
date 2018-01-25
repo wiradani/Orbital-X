@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 089388babd09dca40aea796814608aeb
+timeCreated: 1474555342
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UI_Play_Game_0
+    21300002: UI_Play_Game_1
+    21300004: UI_Play_Game_2
+    21300006: UI_Play_Game_3
+    21300008: UI_Play_Game_4
+    21300010: UI_Play_Game_5
+    21300012: UI_Play_Game_6
+    21300014: UI_Play_Game_7
+    21300016: UI_Play_Game_8
+    21300018: UI_Play_Game_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: UI_Play_Game_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 497
+        width: 350
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_Play_Game_1
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 497
+        width: 296
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_Play_Game_2
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 489
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_Play_Game_3
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 276
+        width: 161
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_Play_Game_4
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 211
+        width: 161
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_Play_Game_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 103
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_Play_Game_6
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 103
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_Play_Game_7
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 0
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_Play_Game_8
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 0
+        width: 103
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_Play_Game_9
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

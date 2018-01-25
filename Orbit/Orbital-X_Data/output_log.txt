@@ -1,0 +1,52 @@
+Mono path[0] = 'D:/Unity Projects/Orbit/Orbital-X_Data/Managed'
+Mono path[1] = 'D:/Unity Projects/Orbit/Orbital-X_Data/Mono'
+Mono config path = 'D:/Unity Projects/Orbit/Orbital-X_Data/Mono/etc'
+PlayerConnection initialized from D:/Unity Projects/Orbit/Orbital-X_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55460
+Multi-casting "[IP] 172.30.10.211 [Port] 55460 [Flags] 2 [Guid] 2416702104 [EditorId] 2533169373 [Version] 1048832 [Id] WindowsPlayer(ACER) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [172.30.10.211:55460]
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     2063 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity Projects\Orbit\Orbital-X_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity Projects\Orbit\Orbital-X_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity Projects\Orbit\Orbital-X_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity Projects\Orbit\Orbital-X_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity Projects\Orbit\Orbital-X_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity Projects\Orbit\Orbital-X_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity Projects\Orbit\Orbital-X_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Unity Projects\Orbit\Orbital-X_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Unity Projects\Orbit\Orbital-X_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.066 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\Unity Projects\Orbit\Orbital-X_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1370 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.615107 ms
+System memory in use before: 110.0 MB.
+System memory in use after: 110.0 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 639.
+Total: 0.578616 ms (FindLiveObjects: 0.038061 ms CreateObjectMapping: 0.045759 ms MarkObjects: 0.475124 ms  DeleteObjects: 0.018816 ms)
+
+Input
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineMonoBehaviourBindings.gen.cs:108)
+TurretInput:OnMouseDown() (at D:\Unity Projects\Orbit\Assets\Script\Weapon\TurretInput.cs:63)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:17)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:161)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:141)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineMonoBehaviourBindings.gen.cs Line: 108)
+
